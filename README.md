@@ -34,3 +34,13 @@ This project addresses the binary sentiment classification problem (positive/neg
 - Optuna (for hyperparameter tuning)
 - Scikit-learn, Pandas
 - Google Colab (for training environment)
+
+---
+
+## 📄 Notebook with Outputs (HTML Export)
+
+Running the full training notebook can be time-consuming due to fine-tuning multiple transformer models. To provide a complete view of the code **along with outputs, plots, and evaluation results**, the notebook has been exported as an HTML file.
+
+You can view it directly without running the code:
+
+👉 [**View Full Notebook with Outputs (sentiment_analysis_report.html)**](sentiment_analysis_report.html)

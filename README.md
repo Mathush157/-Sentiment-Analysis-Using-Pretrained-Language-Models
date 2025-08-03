@@ -41,4 +41,4 @@ This project addresses the binary sentiment classification problem (positive/neg
 
 Running the full training notebook can be time-consuming due to fine-tuning multiple transformer models. To provide a complete view of the code **along with outputs, plots, and evaluation results**, the notebook has been exported as an HTML file.
 
-👉 [**View Full Notebook with Outputs (NBViewer)**](https://nbviewer.org/github/Mathush157/-Sentiment-Analysis-Using-Pretrained-Language-Models/blob/main/sentiment_analysis_using_pretrained_models.html)
+👉 [**View Full Notebook with Outputs (NBViewer)**](https://nbviewer.org/github/Mathush157/-Sentiment-Analysis-Using-Pretrained-Language-Models/blob/main/sentiment_analysis_using_pretrained_models.ipynb)

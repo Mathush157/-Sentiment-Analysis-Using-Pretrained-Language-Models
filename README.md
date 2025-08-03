@@ -43,4 +43,4 @@ Running the full training notebook can be time-consuming due to fine-tuning mult
 
 You can view it directly without running the code:
 
-👉 [**View Full Notebook with Outputs (sentiment_analysis_report.html)**](sentiment_analysis_report.html)
+👉 [**View Full Notebook with Outputs (sentiment_analysis_report.html)**]([sentiment_analysis_report.html](https://github.com/Mathush157/-Sentiment-Analysis-Using-Pretrained-Language-Models/blob/main/sentiment_analysis_using_pretrained_models.html))
